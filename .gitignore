@@ -1,0 +1,8 @@
+#ignore vim buffer files
+*~
+
+#ignore build file or some config shit idk
+a.out
+.*.swp
+ascii_art.h.gch
+
